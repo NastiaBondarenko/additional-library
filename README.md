@@ -13,8 +13,8 @@ This project aims to create a program for managing books in a library. It emphas
 ## Evaluation
 
 - **Correct Creation of Classes**: 1 point
-- **Correct Operation of Functions**: 0.4 points
-- **Additional Logical Functions**: 0.5 points
+- **Correct Operation of Each Function**: 0.2 points  (0.2 * 5  =  1)
+- **Two additional Logical Functions**: 0.5 points
 
 ## Deadline
 
